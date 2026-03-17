@@ -5,11 +5,12 @@ TagManager:
   serializedVersion: 3
   tags:
   - Rotatable
+  - objeto interactivo
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Raycast Detect
   - Water
   - UI
   - Plant
